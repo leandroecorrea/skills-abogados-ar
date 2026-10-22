@@ -1,0 +1,1520 @@
+[
+  {
+    "id": "80",
+    "titulo": "Avellaneda-Lanus",
+    "juzgados": [
+      {
+        "code": "GAM2078",
+        "name": "Juzgado Civil y Comercial N° 1 Avellaneda"
+      },
+      {
+        "code": "GAM2079",
+        "name": "Juzgado Civil y Comercial N° 2 Avellaneda"
+      },
+      {
+        "code": "GAM3639",
+        "name": "Juzgado Civil y Comercial N° 3 Avellaneda"
+      },
+      {
+        "code": "GAM2107",
+        "name": "Juzgado Civil y Comercial N° 4 Lanus"
+      },
+      {
+        "code": "GAM2106",
+        "name": "Juzgado Civil y Comercial N° 5 Lanus"
+      },
+      {
+        "code": "GAM3363",
+        "name": "Juzgado Civil y Comercial N° 6 Lanus"
+      },
+      {
+        "code": "GAM3659",
+        "name": "Juzgado Civil y Comercial N° 7 Avellaneda"
+      },
+      {
+        "code": "GAM4125",
+        "name": "Juzgado Civil y Comercial N° 8 Avellaneda"
+      },
+      {
+        "code": "GAM3705",
+        "name": "Juzgado Contencioso Administrativo N°1 Lanus"
+      },
+      {
+        "code": "GAM9",
+        "name": "Tribunal de Trabajo Nro. 1  Avellaneda"
+      },
+      {
+        "code": "GAM10",
+        "name": "Tribunal de Trabajo Nro. 2  Avellaneda"
+      },
+      {
+        "code": "GAM11",
+        "name": "Tribunal de Trabajo Nro. 3  Avellaneda"
+      },
+      {
+        "code": "GAM192",
+        "name": "Tribunal de Trabajo Nro. 4  Lanus"
+      },
+      {
+        "code": "GAM193",
+        "name": "Tribunal de Trabajo Nro. 5  Lanus"
+      },
+      {
+        "code": "GAM1049",
+        "name": "Tribunal de Trabajo Nro. 6  Lanus"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "titulo": "Azul",
+    "juzgados": [
+      {
+        "code": "GAM22",
+        "name": "Juzgado Civil y Comercial N° 1"
+      },
+      {
+        "code": "GAM23",
+        "name": "Juzgado Civil y Comercial N° 2"
+      },
+      {
+        "code": "GAM24",
+        "name": "Juzgado Civil y Comercial N° 3"
+      },
+      {
+        "code": "GAM25",
+        "name": "Juzgado Civil y Comercial N° 4"
+      },
+      {
+        "code": "GAM1649",
+        "name": "Juzgado en lo Contencioso y Administrativo Nro.1 de Azul"
+      },
+      {
+        "code": "GAM35",
+        "name": "Tribunal del Trabajo de Azul"
+      },
+      {
+        "code": "GAM2122",
+        "name": "Cámara Civil de Azul"
+      },
+      {
+        "code": "GAM15",
+        "name": "Cámara Civil  Sala I de Azul"
+      },
+      {
+        "code": "GAM14",
+        "name": "Cámara Civil  Sala II de Azul"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "titulo": "Bahía Blanca",
+    "juzgados": [
+      {
+        "code": "GAM1651",
+        "name": "Juzgado Contencioso Administrativo 1"
+      },
+      {
+        "code": "GAM49",
+        "name": "Juzgado en lo Civil y Comercial N° 1"
+      },
+      {
+        "code": "GAM50",
+        "name": "Juzgado en lo Civil y Comercial N° 2"
+      },
+      {
+        "code": "GAM51",
+        "name": "Juzgado en lo Civil y Comercial N° 3"
+      },
+      {
+        "code": "GAM52",
+        "name": "Juzgado en lo Civil y Comercial N° 4"
+      },
+      {
+        "code": "GAM53",
+        "name": "Juzgado en lo Civil y Comercial N° 5"
+      },
+      {
+        "code": "GAM54",
+        "name": "Juzgado en lo Civil y Comercial N° 6"
+      },
+      {
+        "code": "GAM55",
+        "name": "Juzgado en lo Civil y Comercial N° 7"
+      },
+      {
+        "code": "GAM56",
+        "name": "Juzgado en lo Civil y Comercial N° 8"
+      },
+      {
+        "code": "GAM71",
+        "name": "Tribunal de Trabajo N° 1"
+      },
+      {
+        "code": "GAM72",
+        "name": "Tribunal de Trabajo N° 2"
+      },
+      {
+        "code": "GAM40",
+        "name": "Cámara Primera de Apelación en lo Civil y Comercial -Sala I"
+      },
+      {
+        "code": "GAM41",
+        "name": "Cámara Primera de Apelación en lo Civil y Comercial -Sala II"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "titulo": "Dolores",
+    "juzgados": [
+      {
+        "code": "GAM118",
+        "name": "Cámara de Apelaciones en lo Civil y Comercial"
+      },
+      {
+        "code": "GAM125",
+        "name": "Juzgado Civil y Comercial N° 1"
+      },
+      {
+        "code": "GAM128",
+        "name": "Juzgado Civil y Comercial N° 2"
+      },
+      {
+        "code": "GAM129",
+        "name": "Juzgado Civil y Comercial N° 3"
+      },
+      {
+        "code": "GAM130",
+        "name": "Juzgado Civil y Comercial N° 4"
+      },
+      {
+        "code": "GAM1635",
+        "name": "Juzgado Contencioso Administrativo"
+      },
+      {
+        "code": "GAM135",
+        "name": "Secretaria de Apremios"
+      },
+      {
+        "code": "GAM139",
+        "name": "Tribunal del Trabajo Nro. 1"
+      },
+      {
+        "code": "GAM2954",
+        "name": "Tribunal del Trabajo Nro. 2"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "titulo": "Junín",
+    "juzgados": [
+      {
+        "code": "GAM1648",
+        "name": "Juzgado Contencioso Administrativo"
+      },
+      {
+        "code": "GAM170",
+        "name": "Camara Civil y Comercial"
+      },
+      {
+        "code": "GAM176",
+        "name": "Juzgado Civil y Comercial 1"
+      },
+      {
+        "code": "GAM177",
+        "name": "Juzgado Civil y Comercial 2"
+      },
+      {
+        "code": "GAM178",
+        "name": "Juzgado Civil y Comercial 3"
+      },
+      {
+        "code": "GAM179",
+        "name": "Juzgado Civil y Comercial 4"
+      },
+      {
+        "code": "GAM189",
+        "name": "Tribunal del Trabajo"
+      },
+      {
+        "code": "GAM3611",
+        "name": "Tribunal Laboral N°1 - Sede Chacabuco"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "titulo": "La Matanza",
+    "juzgados": [
+      {
+        "code": "GAM1382",
+        "name": "Camara Civil y Comercial Presidencia"
+      },
+      {
+        "code": "GAM1420",
+        "name": "Camara Civil y Comercial Sala I"
+      },
+      {
+        "code": "GAM1421",
+        "name": "Camara Civil y Comercial Sala II"
+      },
+      {
+        "code": "GAM1650",
+        "name": "Contencioso Administrativo 1"
+      },
+      {
+        "code": "GAM1383",
+        "name": "Juzgado Civil y Comercial Nro. 1"
+      },
+      {
+        "code": "GAM1384",
+        "name": "Juzgado Civil y Comercial Nro. 2"
+      },
+      {
+        "code": "GAM1385",
+        "name": "Juzgado Civil y Comercial Nro. 3"
+      },
+      {
+        "code": "GAM1386",
+        "name": "Juzgado Civil y Comercial Nro. 4"
+      },
+      {
+        "code": "GAM1387",
+        "name": "Juzgado Civil y Comercial Nro. 5"
+      },
+      {
+        "code": "GAM1388",
+        "name": "Juzgado Civil y Comercial Nro. 6"
+      },
+      {
+        "code": "GAM1666",
+        "name": "Juzgado Civil y Comercial Nro. 7"
+      },
+      {
+        "code": "GAM1667",
+        "name": "Juzgado Civil y Comercial Nro. 8"
+      },
+      {
+        "code": "GAM2979",
+        "name": "Juzgado Civil y Comercial Nro. 9"
+      },
+      {
+        "code": "GAM2980",
+        "name": "Juzgado Civil y Comercial Nro. 10"
+      },
+      {
+        "code": "GAM199",
+        "name": "Tribunal del Trabajo Nro. 1"
+      },
+      {
+        "code": "GAM200",
+        "name": "Tribunal del Trabajo Nro. 2"
+      },
+      {
+        "code": "GAM201",
+        "name": "Tribunal del Trabajo Nro.  3"
+      },
+      {
+        "code": "GAM202",
+        "name": "Tribunal del Trabajo Nro.  4"
+      },
+      {
+        "code": "GAM1050",
+        "name": "Tribunal del Trabajo Nro.  5"
+      },
+      {
+        "code": "GAM1559",
+        "name": "Secretaria de Apremios (Sistema Augusta)"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "titulo": "La Plata",
+    "juzgados": [
+      {
+        "code": "GAM1460",
+        "name": "Cámara Primera en lo Civil y Comercial - PRESIDENCIA"
+      },
+      {
+        "code": "GAM210",
+        "name": "Cámara Primera en lo Civil y Comercial - SALA   I"
+      },
+      {
+        "code": "GAM211",
+        "name": "Cámara Primera en lo Civil y Comercial - SALA  II"
+      },
+      {
+        "code": "GAM212",
+        "name": "Cámara Primera en lo Civil y Comercial - SALA III"
+      },
+      {
+        "code": "GAM1461",
+        "name": "Cámara Segunda en lo Civil y Comercial - PRESIDENCIA"
+      },
+      {
+        "code": "GAM213",
+        "name": "Cámara Segunda en lo Civil y Comercial - SALA   I"
+      },
+      {
+        "code": "GAM214",
+        "name": "Cámara Segunda en lo Civil y Comercial - SALA  II"
+      },
+      {
+        "code": "GAM215",
+        "name": "Cámara Segunda en lo Civil y Comercial - SALA  III"
+      },
+      {
+        "code": "GAM1624",
+        "name": "Juzgado Contencioso Administrativo  1"
+      },
+      {
+        "code": "GAM1625",
+        "name": "Juzgado Contencioso Administrativo  2"
+      },
+      {
+        "code": "GAM1677",
+        "name": "Juzgado Contencioso Administrativo  3"
+      },
+      {
+        "code": "GAM2721",
+        "name": "Juzgado Contencioso Administrativo  4"
+      },
+      {
+        "code": "GAM4141",
+        "name": "CAMARA DE APELACION CONTENCIOSO ADMINISTRATIVO"
+      },
+      {
+        "code": "GAM1660",
+        "name": "Cámara de Apelación en lo Contencioso Adm Sala I"
+      },
+      {
+        "code": "GAM4140",
+        "name": "Cámara DE Apelación EN LO CONTENCIOSO ADM SALA II"
+      },
+      {
+        "code": "GAM238",
+        "name": "Juzgado Civil y Comercial  1"
+      },
+      {
+        "code": "GAM239",
+        "name": "Juzgado Civil y Comercial  2"
+      },
+      {
+        "code": "GAM241",
+        "name": "Juzgado Civil y Comercial  4"
+      },
+      {
+        "code": "GAM242",
+        "name": "Juzgado Civil y Comercial  5"
+      },
+      {
+        "code": "GAM243",
+        "name": "Juzgado Civil y Comercial  6"
+      },
+      {
+        "code": "GAM244",
+        "name": "Juzgado Civil y Comercial  7"
+      },
+      {
+        "code": "GAM245",
+        "name": "Juzgado Civil y Comercial  8"
+      },
+      {
+        "code": "GAM246",
+        "name": "Juzgado Civil y Comercial  9"
+      },
+      {
+        "code": "GAM247",
+        "name": "Juzgado Civil y Comercial 10"
+      },
+      {
+        "code": "GAM248",
+        "name": "Juzgado Civil y Comercial 11"
+      },
+      {
+        "code": "GAM249",
+        "name": "Juzgado Civil y Comercial 12"
+      },
+      {
+        "code": "GAM250",
+        "name": "Juzgado Civil y Comercial 13"
+      },
+      {
+        "code": "GAM251",
+        "name": "Juzgado Civil y Comercial 14"
+      },
+      {
+        "code": "GAM253",
+        "name": "Juzgado Civil y Comercial 16"
+      },
+      {
+        "code": "GAM254",
+        "name": "Juzgado Civil y Comercial 17"
+      },
+      {
+        "code": "GAM255",
+        "name": "Juzgado Civil y Comercial 18"
+      },
+      {
+        "code": "GAM256",
+        "name": "Juzgado Civil y Comercial 19"
+      },
+      {
+        "code": "GAM257",
+        "name": "Juzgado Civil y Comercial 20"
+      },
+      {
+        "code": "GAM258",
+        "name": "Juzgado Civil y Comercial 21"
+      },
+      {
+        "code": "GAM259",
+        "name": "Juzgado Civil y Comercial 22"
+      },
+      {
+        "code": "GAM260",
+        "name": "Juzgado Civil y Comercial 23"
+      },
+      {
+        "code": "GAM262",
+        "name": "Juzgado Civil y Comercial 25"
+      },
+      {
+        "code": "GAM264",
+        "name": "Juzgado Civil y Comercial 27"
+      },
+      {
+        "code": "GAM301",
+        "name": "Tribunal de Trabajo  1"
+      },
+      {
+        "code": "GAM302",
+        "name": "Tribunal de Trabajo  2"
+      },
+      {
+        "code": "GAM303",
+        "name": "Tribunal de Trabajo  3"
+      },
+      {
+        "code": "GAM304",
+        "name": "Tribunal de Trabajo  4"
+      },
+      {
+        "code": "GAM1048",
+        "name": "Tribunal de Trabajo  5"
+      },
+      {
+        "code": "GAM266",
+        "name": "Juzgado Notarial de la Provincia"
+      },
+      {
+        "code": "GAM1584",
+        "name": "Secretaría de Apremios"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "titulo": "Lomas de Zamora",
+    "juzgados": [
+      {
+        "code": "GAM328",
+        "name": "Juzgado Civil y Comercial N° 1"
+      },
+      {
+        "code": "GAM329",
+        "name": "Juzgado Civil y Comercial N° 2"
+      },
+      {
+        "code": "GAM330",
+        "name": "Juzgado Civil y Comercial N° 3"
+      },
+      {
+        "code": "GAM331",
+        "name": "Juzgado Civil y Comercial N° 4"
+      },
+      {
+        "code": "GAM332",
+        "name": "Juzgado Civil y Comercial N° 5"
+      },
+      {
+        "code": "GAM333",
+        "name": "Juzgado Civil y Comercial N° 6"
+      },
+      {
+        "code": "GAM334",
+        "name": "Juzgado Civil y Comercial N° 7"
+      },
+      {
+        "code": "GAM335",
+        "name": "Juzgado Civil y Comercial N° 8"
+      },
+      {
+        "code": "GAM336",
+        "name": "Juzgado Civil y Comercial N° 9"
+      },
+      {
+        "code": "GAM337",
+        "name": "Juzgado Civil y Comercial N° 10"
+      },
+      {
+        "code": "GAM338",
+        "name": "Juzgado Civil y Comercial N° 11"
+      },
+      {
+        "code": "GAM339",
+        "name": "Juzgado Civil y Comercial N° 12"
+      },
+      {
+        "code": "GAM340",
+        "name": "Juzgado Civil y Comercial N° 13"
+      },
+      {
+        "code": "GAM341",
+        "name": "Juzgado Civil y Comercial N° 14"
+      },
+      {
+        "code": "GAM3612",
+        "name": "Juzgado Civil y Comercial N° 15"
+      },
+      {
+        "code": "GAM3613",
+        "name": "Juzgado Civil y Comercial N° 16"
+      },
+      {
+        "code": "GAM363",
+        "name": "Tribunal de Trabajo N° 1"
+      },
+      {
+        "code": "GAM364",
+        "name": "Tribunal de Trabajo N° 2"
+      },
+      {
+        "code": "GAM365",
+        "name": "Tribunal de Trabajo N° 3"
+      },
+      {
+        "code": "GAM366",
+        "name": "Tribunal de Trabajo N° 4"
+      },
+      {
+        "code": "GAM1053",
+        "name": "Tribunal de Trabajo N° 5"
+      },
+      {
+        "code": "GAM1630",
+        "name": "Juzgado Contencioso Administrativo N° 1"
+      },
+      {
+        "code": "GAM2436",
+        "name": "Juzgado Contencioso Administrativo N° 2"
+      },
+      {
+        "code": "GAM2062",
+        "name": "Presidencia de Cámara Civil"
+      },
+      {
+        "code": "GAM312",
+        "name": "Cámara de Apelación en lo Civil y Comercial - Sala I"
+      },
+      {
+        "code": "GAM313",
+        "name": "Cámara de Apelación en lo Civil y Comercial - Sala II"
+      },
+      {
+        "code": "GAM2063",
+        "name": "Cámara de Apelación en lo Civil y Comercial - Sala III"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "titulo": "Mar del Plata",
+    "juzgados": [
+      {
+        "code": "GAM2074",
+        "name": "Cámara Civil y Comercial - Presidencia"
+      },
+      {
+        "code": "GAM477",
+        "name": "Cámara de Apelación en lo Civil y Comercial - Sala 1ra"
+      },
+      {
+        "code": "GAM478",
+        "name": "Cámara de Apelación en lo Civil y Comercial - Sala 2da"
+      },
+      {
+        "code": "GAM2066",
+        "name": "Cámara de Apelación en lo Civil y Comercial - Sala 3ra"
+      },
+      {
+        "code": "GAM1786",
+        "name": "Cámara de Apelación en lo Contencioso Administrativo"
+      },
+      {
+        "code": "GAM490",
+        "name": "Juzgado Civil y Comercial N°  1"
+      },
+      {
+        "code": "GAM491",
+        "name": "Juzgado Civil y Comercial N°  2"
+      },
+      {
+        "code": "GAM492",
+        "name": "Juzgado Civil y Comercial N°  3"
+      },
+      {
+        "code": "GAM493",
+        "name": "Juzgado Civil y Comercial N°  4"
+      },
+      {
+        "code": "GAM494",
+        "name": "Juzgado Civil y Comercial N°  5"
+      },
+      {
+        "code": "GAM495",
+        "name": "Juzgado Civil y Comercial N°  6"
+      },
+      {
+        "code": "GAM496",
+        "name": "Juzgado Civil y Comercial N°  7"
+      },
+      {
+        "code": "GAM497",
+        "name": "Juzgado Civil y Comercial N°  8"
+      },
+      {
+        "code": "GAM498",
+        "name": "Juzgado Civil y Comercial N°  9"
+      },
+      {
+        "code": "GAM499",
+        "name": "Juzgado Civil y Comercial N° 10"
+      },
+      {
+        "code": "GAM1076",
+        "name": "Juzgado Civil y Comercial N° 11"
+      },
+      {
+        "code": "GAM1077",
+        "name": "Juzgado Civil y Comercial N° 12"
+      },
+      {
+        "code": "GAM1078",
+        "name": "Juzgado Civil y Comercial N° 13"
+      },
+      {
+        "code": "GAM1557",
+        "name": "Juzgado Civil y Comercial N° 14"
+      },
+      {
+        "code": "GAM2982",
+        "name": "Juzgado Civil y Comercial N° 15"
+      },
+      {
+        "code": "GAM2981",
+        "name": "Juzgado Civil y Comercial N° 16"
+      },
+      {
+        "code": "GAM1627",
+        "name": "Juzgado Contencioso Administrativo N°  1"
+      },
+      {
+        "code": "GAM1628",
+        "name": "Juzgado Contencioso Administrativo N°  2"
+      },
+      {
+        "code": "GAM1799",
+        "name": "Secretaria de Apremios"
+      },
+      {
+        "code": "GAM515",
+        "name": "Tribunal de Trabajo N° 1"
+      },
+      {
+        "code": "GAM516",
+        "name": "Tribunal de Trabajo N° 2"
+      },
+      {
+        "code": "GAM517",
+        "name": "Tribunal de Trabajo N° 3"
+      },
+      {
+        "code": "GAM2149",
+        "name": "Tribunal de Trabajo N° 4"
+      },
+      {
+        "code": "GAM3746",
+        "name": "Tribunal de Trabajo N° 5"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "titulo": "Mercedes",
+    "juzgados": [
+      {
+        "code": "GAM381",
+        "name": "Juzgado Civil y Comercial N° 1"
+      },
+      {
+        "code": "GAM382",
+        "name": "Juzgado Civil y Comercial N° 2"
+      },
+      {
+        "code": "GAM383",
+        "name": "Juzgado Civil y Comercial N° 3"
+      },
+      {
+        "code": "GAM384",
+        "name": "Juzgado Civil y Comercial N° 4"
+      },
+      {
+        "code": "GAM385",
+        "name": "Juzgado Civil y Comercial N° 5"
+      },
+      {
+        "code": "GAM386",
+        "name": "Juzgado Civil y Comercial N° 6"
+      },
+      {
+        "code": "GAM387",
+        "name": "Juzgado Civil y Comercial N° 7"
+      },
+      {
+        "code": "GAM388",
+        "name": "Juzgado Civil y Comercial N° 8"
+      },
+      {
+        "code": "GAM389",
+        "name": "Juzgado Civil y Comercial N° 9"
+      },
+      {
+        "code": "GAM390",
+        "name": "Juzgado Civil y Comercial N° 10"
+      },
+      {
+        "code": "GAM1633",
+        "name": "Juzgado Contencioso Administrativo"
+      },
+      {
+        "code": "GAM405",
+        "name": "Tribunal de trabajo N° 1"
+      },
+      {
+        "code": "GAM2072",
+        "name": "Cámara de Apelaciones en lo Civil y Comercial - Presidencia"
+      },
+      {
+        "code": "GAM370",
+        "name": "Cámara de Apelaciones en lo Civil y Comercial - Sala I"
+      },
+      {
+        "code": "GAM371",
+        "name": "Cámara de Apelaciones en lo Civil y Comercial - Sala II"
+      },
+      {
+        "code": "GAM2068",
+        "name": "Cámara de Apelaciones en lo Civil y Comercial - Sala III"
+      },
+      {
+        "code": "GAM80",
+        "name": "Tribunal de trabajo N° 3 - Bragado"
+      }
+    ]
+  },
+  {
+    "id": "52",
+    "titulo": "Moreno - Gral. Rodriguez",
+    "juzgados": [
+      {
+        "code": "GAM2254",
+        "name": "Juzgado Civil y Comercial N°1"
+      },
+      {
+        "code": "GAM2255",
+        "name": "Juzgado Civil y Comercial N°2"
+      },
+      {
+        "code": "GAM2257",
+        "name": "Juzgado Civil y Comercial N°3"
+      },
+      {
+        "code": "GAM3431",
+        "name": "Juzgado Civil y Comercial N°4"
+      },
+      {
+        "code": "GAM2227",
+        "name": "Tribunal de Trabajo de Moreno"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "titulo": "Moron",
+    "juzgados": [
+      {
+        "code": "GAM415",
+        "name": "Cámara Civil y Comercial - Sala 1ra."
+      },
+      {
+        "code": "GAM416",
+        "name": "Cámara Civil y Comercial - Sala 2da."
+      },
+      {
+        "code": "GAM2069",
+        "name": "Cámara Civil y Comercial - Sala 3ra."
+      },
+      {
+        "code": "GAM2073",
+        "name": "Cámara Civil y Comercial - Secretaria de Presidencia"
+      },
+      {
+        "code": "GAM430",
+        "name": "Juzgado Civil y Comercial N° 1"
+      },
+      {
+        "code": "GAM431",
+        "name": "Juzgado Civil y Comercial N° 2"
+      },
+      {
+        "code": "GAM432",
+        "name": "Juzgado Civil y Comercial N° 3"
+      },
+      {
+        "code": "GAM433",
+        "name": "Juzgado Civil y Comercial N° 4"
+      },
+      {
+        "code": "GAM434",
+        "name": "Juzgado Civil y Comercial N° 5"
+      },
+      {
+        "code": "GAM435",
+        "name": "Juzgado Civil y Comercial N° 6"
+      },
+      {
+        "code": "GAM436",
+        "name": "Juzgado Civil y Comercial N° 7"
+      },
+      {
+        "code": "GAM437",
+        "name": "Juzgado Civil y Comercial N° 8"
+      },
+      {
+        "code": "GAM438",
+        "name": "Juzgado Civil y Comercial N° 9"
+      },
+      {
+        "code": "GAM439",
+        "name": "Juzgado Civil y Comercial N° 10"
+      },
+      {
+        "code": "GAM440",
+        "name": "Juzgado Civil y Comercial N° 11"
+      },
+      {
+        "code": "GAM441",
+        "name": "Juzgado Civil y Comercial N° 12"
+      },
+      {
+        "code": "GAM1645",
+        "name": "Juzgado en lo Contencioso Administrativo N° 1 de Morón"
+      },
+      {
+        "code": "GAM459",
+        "name": "Registro Público de Comercio - Secretaría de Apremios"
+      },
+      {
+        "code": "GAM468",
+        "name": "Tribunal de Trabajo N° 1"
+      },
+      {
+        "code": "GAM469",
+        "name": "Tribunal de Trabajo N° 2"
+      },
+      {
+        "code": "GAM470",
+        "name": "Tribunal de Trabajo N° 3"
+      },
+      {
+        "code": "GAM471",
+        "name": "Tribunal de Trabajo N° 4"
+      },
+      {
+        "code": "GAM472",
+        "name": "Tribunal de Trabajo N° 5"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "titulo": "Necochea",
+    "juzgados": [
+      {
+        "code": "GAM1634",
+        "name": "Juzgado Contencioso 1"
+      },
+      {
+        "code": "GAM529",
+        "name": "Juzgado Civil Y Comercial N°2"
+      },
+      {
+        "code": "GAM536",
+        "name": "Tribunal de Trabajo N°1"
+      },
+      {
+        "code": "GAM528",
+        "name": "Juzgado Civil Y Comercial N°1"
+      },
+      {
+        "code": "GAM1856",
+        "name": "Cámara de Apelaciones en lo Civil y Comercial"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "titulo": "Olavarría",
+    "juzgados": [
+      {
+        "code": "GAM541",
+        "name": "Juzgado Civil y Comercial  N° 1"
+      },
+      {
+        "code": "GAM1351",
+        "name": "Juzgado Civil y Comercial  N° 2"
+      },
+      {
+        "code": "GAM544",
+        "name": "Tribunal de Trabajo N° 1"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "titulo": "Pergamino",
+    "juzgados": [
+      {
+        "code": "GAM1644",
+        "name": "Juzgado Contencioso"
+      },
+      {
+        "code": "GAM2090",
+        "name": "Camara Civil"
+      },
+      {
+        "code": "GAM567",
+        "name": "Tribunal de Trabajo  N° 1"
+      },
+      {
+        "code": "GAM558",
+        "name": "Juzgado Civil y Comercial N° 3"
+      },
+      {
+        "code": "GAM557",
+        "name": "Juzgado Civil y Comercial N°  2"
+      },
+      {
+        "code": "GAM556",
+        "name": "Juzgado Civil y Comercial N°  1"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "titulo": "Quilmes",
+    "juzgados": [
+      {
+        "code": "GAM591",
+        "name": "Juzgado en lo Civil y Comercial Nro. 1"
+      },
+      {
+        "code": "GAM592",
+        "name": "Juzgado en lo Civil y Comercial Nro. 2"
+      },
+      {
+        "code": "GAM593",
+        "name": "Juzgado en lo Civil y Comercial Nro. 3"
+      },
+      {
+        "code": "GAM594",
+        "name": "Juzgado en lo Civil y Comercial Nro. 4"
+      },
+      {
+        "code": "GAM595",
+        "name": "Juzgado en lo Civil y Comercial Nro. 5"
+      },
+      {
+        "code": "GAM596",
+        "name": "Juzgado en lo Civil y Comercial Nro. 6"
+      },
+      {
+        "code": "GAM597",
+        "name": "Juzgado en lo Civil y Comercial Nro. 7"
+      },
+      {
+        "code": "GAM598",
+        "name": "Juzgado en lo Civil y Comercial Nro. 8"
+      },
+      {
+        "code": "GAM1945",
+        "name": "Juzgado en lo Civil y Comercial Nro. 9"
+      },
+      {
+        "code": "GAM2023",
+        "name": "Juzgado en lo Civil y Comercial Nro. 10"
+      },
+      {
+        "code": "GAM4033",
+        "name": "Juzgado en lo Civil y Comercial Nro.11"
+      },
+      {
+        "code": "GAM4034",
+        "name": "Juzgado en lo Civil y Comercial Nro.12"
+      },
+      {
+        "code": "GAM577",
+        "name": "Cámara de Apelaciones en lo Civil y Comercial Sala I"
+      },
+      {
+        "code": "GAM578",
+        "name": "Cámara de Apelaciones en lo Civil y Comercial Sala II"
+      },
+      {
+        "code": "GAM1552",
+        "name": "Secretaría de Apremios y RPC"
+      },
+      {
+        "code": "GAM1636",
+        "name": "Juzgado en lo Contencioso Administrativo N° 1"
+      },
+      {
+        "code": "GAM611",
+        "name": "Tribunal de Trabajo N° 1"
+      },
+      {
+        "code": "GAM612",
+        "name": "Tribunal de Trabajo N° 2"
+      },
+      {
+        "code": "GAM613",
+        "name": "Tribunal de Trabajo N° 3"
+      },
+      {
+        "code": "GAM1051",
+        "name": "Tribunal de Trabajo N° 4"
+      },
+      {
+        "code": "GAM1052",
+        "name": "Tribunal de Trabajo N° 5"
+      },
+      {
+        "code": "GAM2976",
+        "name": "Tribunal de Trabajo N° 1 Florencio Varela"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "titulo": "San Isidro",
+    "juzgados": [
+      {
+        "code": "GAM643",
+        "name": "Juzgado Civil y Comercial 1"
+      },
+      {
+        "code": "GAM644",
+        "name": "Juzgado Civil y Comercial 2"
+      },
+      {
+        "code": "GAM645",
+        "name": "Juzgado Civil y Comercial 3"
+      },
+      {
+        "code": "GAM646",
+        "name": "Juzgado Civil y Comercial 4"
+      },
+      {
+        "code": "GAM647",
+        "name": "Juzgado Civil y Comercial 5"
+      },
+      {
+        "code": "GAM648",
+        "name": "Juzgado Civil y Comercial 6"
+      },
+      {
+        "code": "GAM649",
+        "name": "Juzgado Civil y Comercial 7"
+      },
+      {
+        "code": "GAM650",
+        "name": "Juzgado Civil y Comercial 8"
+      },
+      {
+        "code": "GAM651",
+        "name": "Juzgado Civil y Comercial 9"
+      },
+      {
+        "code": "GAM652",
+        "name": "Juzgado Civil y Comercial 10"
+      },
+      {
+        "code": "GAM653",
+        "name": "Juzgado Civil y Comercial 11"
+      },
+      {
+        "code": "GAM654",
+        "name": "Juzgado Civil y Comercial 12"
+      },
+      {
+        "code": "GAM655",
+        "name": "Juzgado Civil y Comercial 13"
+      },
+      {
+        "code": "GAM656",
+        "name": "Juzgado Civil y Comercial 14"
+      },
+      {
+        "code": "GAM2955",
+        "name": "Juzgado Civil y Comercial 15"
+      },
+      {
+        "code": "GAM2956",
+        "name": "Juzgado Civil y Comercial 16"
+      },
+      {
+        "code": "GAM681",
+        "name": "Tribunal de Trabajo 1"
+      },
+      {
+        "code": "GAM682",
+        "name": "Tribunal de Trabajo 2"
+      },
+      {
+        "code": "GAM683",
+        "name": "Tribunal de Trabajo 3"
+      },
+      {
+        "code": "GAM1096",
+        "name": "Tribunal de Trabajo 4"
+      },
+      {
+        "code": "GAM1097",
+        "name": "Tribunal de Trabajo 5"
+      },
+      {
+        "code": "GAM1098",
+        "name": "Tribunal de Trabajo 6"
+      },
+      {
+        "code": "GAM2133",
+        "name": "Tribunal de Trabajo 7 (Pilar)"
+      },
+      {
+        "code": "GAM1637",
+        "name": "Juzgado Contencioso Administrativo 1"
+      },
+      {
+        "code": "GAM2264",
+        "name": "Juzgado Contencioso Administrativo 2"
+      },
+      {
+        "code": "GAM627",
+        "name": "Cámara de Apelación en lo Civil y Comercial - Sala I"
+      },
+      {
+        "code": "GAM628",
+        "name": "Cámara de Apelación en lo Civil y Comercial - Sala II"
+      },
+      {
+        "code": "GAM2070",
+        "name": "Cámara de Apelación en lo Civil y Comercial - Sala III"
+      },
+      {
+        "code": "GAM2077",
+        "name": "Cámara de Apelación en lo Civil y Comercial - Presidencia"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "titulo": "San Martín",
+    "juzgados": [
+      {
+        "code": "GAM2076",
+        "name": "Cámara Civil y Comercial - Presidencia"
+      },
+      {
+        "code": "GAM689",
+        "name": "Cámara Civil y Comercial - Sala 01"
+      },
+      {
+        "code": "GAM690",
+        "name": "Cámara Civil y Comercial - Sala 02"
+      },
+      {
+        "code": "GAM2067",
+        "name": "Cámara Civil y Comercial - Sala 03"
+      },
+      {
+        "code": "GAM703",
+        "name": "Juzgado Civil y Comercial Nro. 01"
+      },
+      {
+        "code": "GAM704",
+        "name": "Juzgado Civil y Comercial Nro. 02"
+      },
+      {
+        "code": "GAM705",
+        "name": "Juzgado Civil y Comercial Nro. 03"
+      },
+      {
+        "code": "GAM706",
+        "name": "Juzgado Civil y Comercial Nro. 04"
+      },
+      {
+        "code": "GAM707",
+        "name": "Juzgado Civil y Comercial Nro. 05"
+      },
+      {
+        "code": "GAM708",
+        "name": "Juzgado Civil y Comercial Nro. 06"
+      },
+      {
+        "code": "GAM709",
+        "name": "Juzgado Civil y Comercial Nro. 07"
+      },
+      {
+        "code": "GAM710",
+        "name": "Juzgado Civil y Comercial Nro. 08"
+      },
+      {
+        "code": "GAM711",
+        "name": "Juzgado Civil y Comercial Nro. 09"
+      },
+      {
+        "code": "GAM712",
+        "name": "Juzgado Civil y Comercial Nro. 10"
+      },
+      {
+        "code": "GAM713",
+        "name": "Juzgado Civil y Comercial Nro. 11"
+      },
+      {
+        "code": "GAM714",
+        "name": "Juzgado Civil y Comercial Nro. 12"
+      },
+      {
+        "code": "GAM734",
+        "name": "Tribunal de Trabajo Nro. 01"
+      },
+      {
+        "code": "GAM1111",
+        "name": "Tribunal de Trabajo Nro. 01 - San Miguel"
+      },
+      {
+        "code": "GAM735",
+        "name": "Tribunal de Trabajo Nro. 02"
+      },
+      {
+        "code": "GAM1858",
+        "name": "Tribunal de Trabajo Nro. 02 - San Miguel"
+      },
+      {
+        "code": "GAM736",
+        "name": "Tribunal de Trabajo Nro. 03"
+      },
+      {
+        "code": "GAM737",
+        "name": "Tribunal de Trabajo Nro. 04"
+      },
+      {
+        "code": "GAM1108",
+        "name": "Tribunal de Trabajo Nro. 05"
+      },
+      {
+        "code": "GAM1661",
+        "name": "Cámara Contencioso Administrativa"
+      },
+      {
+        "code": "GAM1629",
+        "name": "Juzgado Contencioso Administrativo Nro. 01"
+      },
+      {
+        "code": "GAM1879",
+        "name": "Juzgado Contencioso Administrativo Nro. 02"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "titulo": "San Nicolas",
+    "juzgados": [
+      {
+        "code": "GAM747",
+        "name": "Juzgado Civil y Comercial N° 1"
+      },
+      {
+        "code": "GAM748",
+        "name": "Juzgado Civil y Comercial N° 2"
+      },
+      {
+        "code": "GAM749",
+        "name": "Juzgado Civil y Comercial N° 3"
+      },
+      {
+        "code": "GAM750",
+        "name": "Juzgado Civil y Comercial N° 4"
+      },
+      {
+        "code": "GAM751",
+        "name": "Juzgado Civil y Comercial N° 5"
+      },
+      {
+        "code": "GAM752",
+        "name": "Juzgado Civil y Comercial N° 6"
+      },
+      {
+        "code": "GAM1631",
+        "name": "Juzgado En Lo Contencioso Administrativo 1"
+      },
+      {
+        "code": "GAM1692",
+        "name": "Cámara En Lo Contencioso Administrativo"
+      },
+      {
+        "code": "GAM764",
+        "name": "Tribunal en lo Laboral N° 1"
+      },
+      {
+        "code": "GAM1041",
+        "name": "Tribunal en lo Laboral N° 2"
+      },
+      {
+        "code": "GAM3496",
+        "name": "Tribunal en lo Laboral N° 3"
+      },
+      {
+        "code": "GAM2075",
+        "name": "Exma. Camara de Apelaciones en lo Civil y Comercial"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "titulo": "Tandil",
+    "juzgados": [
+      {
+        "code": "GAM797",
+        "name": "Juzgado Civil y Comercial N° 1"
+      },
+      {
+        "code": "GAM798",
+        "name": "Juzgado Civil y Comercial N° 2"
+      },
+      {
+        "code": "GAM2039",
+        "name": "Juzgado Civil y Comercial N° 3"
+      },
+      {
+        "code": "GAM803",
+        "name": "Tribunal del Trabajo Tandil"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "titulo": "Trenque Lauquen",
+    "juzgados": [
+      {
+        "code": "GAM774",
+        "name": "Camara de Apelacion Civil y Comercial - Trenque Lauquen"
+      },
+      {
+        "code": "GAM1647",
+        "name": "Contencioso Administrativo N° 1"
+      },
+      {
+        "code": "GAM780",
+        "name": "Juzgado Civil  y Comercial N° 1"
+      },
+      {
+        "code": "GAM781",
+        "name": "Juzgado Civil y Comercial N° 2"
+      },
+      {
+        "code": "GAM790",
+        "name": "Tribunal del Trabajo"
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "titulo": "Tres Arroyos",
+    "juzgados": [
+      {
+        "code": "GAM809",
+        "name": "Juzgado Civil y Comercial Nro. 1 Tres Arroyos"
+      },
+      {
+        "code": "GAM810",
+        "name": "Juzgado Civil y Comercial Nro. 2  Tres Arroyos"
+      },
+      {
+        "code": "GAM1405",
+        "name": "Tribunal de Trabajo Nro. 3  Tres Arroyos"
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "titulo": "Zarate/Campana",
+    "juzgados": [
+      {
+        "code": "GAM87",
+        "name": "Juzgado Civil y Comercial  1"
+      },
+      {
+        "code": "GAM819",
+        "name": "Juzgado Civil y Comercial  2"
+      },
+      {
+        "code": "GAM1576",
+        "name": "Juzgado Civil y Comercial  3"
+      },
+      {
+        "code": "GAM1581",
+        "name": "Juzgado Civil y Comercial  4"
+      },
+      {
+        "code": "GAM1947",
+        "name": "Camara de Apelación en lo Civil y Comercial"
+      },
+      {
+        "code": "GAM823",
+        "name": "Tribunal de Trabajo N°2 Zarate"
+      },
+      {
+        "code": "GAM1042",
+        "name": "Tribunal de Trabajo N°1 Campana"
+      },
+      {
+        "code": "GAM3482",
+        "name": "Tribunal de Trabajo N°3 Campana"
+      },
+      {
+        "code": "GAM4111",
+        "name": "Tribunal de Trabajo N°4 Escobar"
+      },
+      {
+        "code": "GAM1638",
+        "name": "Juzgado Contencioso Administrativo"
+      }
+    ]
+  }
+]

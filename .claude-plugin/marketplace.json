@@ -1,0 +1,11 @@
+{
+  "name": "skills-abogados-ar",
+  "owner": { "name": "Leandro Correa" },
+  "plugins": [
+    {
+      "name": "abogados-ar",
+      "source": "./",
+      "description": "Consulta y descarga de causas judiciales argentinas (MEV/SCBA; PJN y Portal próximamente)."
+    }
+  ]
+}
