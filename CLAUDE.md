@@ -1,7 +1,7 @@
 # CLAUDE.md
 
 Claude skills + the `ar-judicial` Python package for Argentine lawyers to query court systems
-(MEV/SCBA today; PJN and Portal de Notificaciones planned) with their own credentials.
+(MEV/SCBA and PJN today; Portal de Notificaciones planned) with their own credentials.
 
 ## Layout
 
@@ -15,8 +15,9 @@ Claude skills + the `ar-judicial` Python package for Argentine lawyers to query 
 
 - Credentials are read only from env vars or `~/.config/ar-judicial/.env`. Never log, print or
   include them in exception messages, and skills must never ask users to paste them into chat.
-- Captchas (e.g. PJN SCW search) are solved by the human: the CLI saves the image and asks the
-  user to type the answer. Do not automate captcha solving.
+- Captchas are never solved automatically. With an authenticated session PJN's SCW search does
+  not ask for one; if a captcha ever appears, stop and tell the user to complete that step
+  themselves on the official site.
 - No parallel or bulk requests against court systems; keep retry counts low.
 - Language: Spanish for user-facing text (CLI output, skills, README); English for code and comments.
 

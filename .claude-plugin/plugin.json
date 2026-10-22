@@ -1,8 +1,10 @@
 {
   "name": "abogados-ar",
-  "version": "0.1.0",
-  "description": "Skills para abogados de Argentina: consulta y descarga de causas en MEV (SCBA). Próximamente PJN y Portal de Notificaciones.",
-  "author": { "name": "Leandro Correa" },
+  "version": "0.2.0",
+  "description": "Skills para abogados de Argentina: consulta y descarga de causas en MEV (SCBA) y PJN (SCW). Próximamente Portal de Notificaciones.",
+  "author": {
+    "name": "Leandro Correa"
+  },
   "homepage": "https://github.com/leandroecorrea/skills-abogados-ar",
   "license": "Apache-2.0"
 }

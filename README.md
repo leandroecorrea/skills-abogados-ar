@@ -12,7 +12,7 @@ abogados de Provincia de Buenos Aires y fuero federal, y se libera bajo licencia
 | Skill | Sistema | Estado |
 |---|---|---|
 | [`mev-causas`](skills/mev-causas/SKILL.md) | MEV — Mesa de Entradas Virtual (SCBA) | ✅ Disponible |
-| `pjn-expedientes` | PJN — Poder Judicial de la Nación (SCW, Mis Expedientes) | 🚧 Próximamente |
+| [`pjn-expedientes`](skills/pjn-expedientes/SKILL.md) | PJN — Poder Judicial de la Nación (SCW) | ✅ Disponible |
 | `portal-notificaciones` | Portal de Notificaciones (SCBA) | 🚧 Próximamente |
 
 Con `mev-causas` le podés pedir a Claude, por ejemplo:
@@ -21,6 +21,12 @@ Con `mev-causas` le podés pedir a Claude, por ejemplo:
 - "Bajame el expediente completo y haceme un resumen con el estado procesal."
 - "¿Cuál fue el último proveído y qué plazo podría estar corriendo?"
 - "Listá mis causas de Familia en San Isidro."
+
+Con `pjn-expedientes`:
+
+- "Listá mis expedientes del PJN."
+- "Bajame el CIV 008078/2025 con todos los PDFs y decime en qué etapa está."
+- "Buscá en la Cámara Comercial los expedientes donde es parte ACME SA."
 
 ## Instalación
 
@@ -36,21 +42,34 @@ uv tool install git+https://github.com/leandroecorrea/skills-abogados-ar
 pip install git+https://github.com/leandroecorrea/skills-abogados-ar
 ```
 
-Probá que funcione (no requiere credenciales):
+Para extraer el texto de los PDFs del PJN instalá el extra `pdf` (u `ocr` para documentos
+escaneados, que además requiere `tesseract` con idioma español y `poppler`):
+
+```bash
+uv tool install "ar-judicial[pdf] @ git+https://github.com/leandroecorrea/skills-abogados-ar"
+```
+
+> El extra `pdf` usa PyMuPDF, que tiene licencia AGPL. Es opcional: sin él, los PDFs se
+> descargan igual y Claude puede leerlos directamente.
+
+Probá que funcione (estos comandos usan catálogos incluidos en el paquete, no se conectan a ningún sistema):
 
 ```bash
 ar-judicial mev juzgados --buscar "civil 1 avellaneda"
+ar-judicial pjn jurisdicciones
 ```
 
 ### 2. Configurar tus credenciales
 
-Creá el archivo `~/.config/ar-judicial/.env` con tu usuario y clave de la MEV:
+Creá el archivo `~/.config/ar-judicial/.env` con tus usuarios y claves (solo los sistemas que uses):
 
 ```bash
 mkdir -p ~/.config/ar-judicial && chmod 700 ~/.config/ar-judicial
 cat > ~/.config/ar-judicial/.env <<'EOF'
 MEV_USUARIO=tu_usuario
 MEV_CLAVE=tu_clave
+PJN_USUARIO=20123456789   # CUIL sin guiones
+PJN_CLAVE=tu_clave
 EOF
 chmod 600 ~/.config/ar-judicial/.env
 ```
@@ -71,12 +90,13 @@ O copiando la carpeta de la skill a mano:
 
 ```bash
 git clone https://github.com/leandroecorrea/skills-abogados-ar
-cp -r skills-abogados-ar/skills/mev-causas ~/.claude/skills/
+cp -r skills-abogados-ar/skills/mev-causas skills-abogados-ar/skills/pjn-expedientes ~/.claude/skills/
 ```
 
-**Claude Desktop / claude.ai**: subí la carpeta `skills/mev-causas` comprimida en ZIP desde
-*Settings → Capabilities → Skills*. La skill necesita ejecutar `ar-judicial` con acceso a
-`mev.scba.gov.ar`, por lo que funciona mejor en Claude Code o en entornos con acceso a tu máquina.
+**Claude Desktop / claude.ai**: subí cada carpeta de `skills/` comprimida en ZIP desde
+*Settings → Capabilities → Skills*. Las skills necesitan ejecutar `ar-judicial` con acceso a
+`mev.scba.gov.ar` y `*.pjn.gov.ar`, por lo que funcionan mejor en Claude Code o en entornos
+con acceso a tu máquina.
 
 ## Uso directo de la herramienta
 
@@ -89,6 +109,13 @@ ar-judicial mev familia --departamento "san isidro"
 ar-judicial mev causa --juzgado GAM2078 --causa 1281688
 ar-judicial mev causa --juzgado GAM2078 --causa 1281688 --completa --salida ./causas
 ar-judicial mev proveido --juzgado GAM2078 --codigo 1281688 --posicion 27606093
+
+ar-judicial pjn jurisdicciones
+ar-judicial pjn expedientes --buscar PEREZ
+ar-judicial pjn causa --numero "CIV 008078/2025"
+ar-judicial pjn causa --numero "CIV 008078/2025" --documentos --salida ./causas
+ar-judicial pjn buscar --jurisdiccion CIV --numero 8078 --anio 2025
+ar-judicial pjn buscar --jurisdiccion COM --parte "ACME SA" --abrir 0 --salida ./causas
 ```
 
 Agregá `--json` antes del sistema (`ar-judicial --json mev ...`) para obtener JSON.
@@ -116,6 +143,7 @@ Estructura:
 ```
 src/ar_judicial/
 ├── mev/            # Cliente HTTP, parsers y modelos de la MEV
+├── pjn/            # Login SSO, SCW, parsers, descarga de expedientes y PDFs del PJN
 ├── data/           # Catálogo de departamentos y juzgados de la MEV
 ├── catalog.py      # Búsqueda de juzgados por nombre
 ├── credentials.py  # Carga local de credenciales

@@ -1,6 +1,6 @@
 [project]
 name = "ar-judicial"
-version = "0.1.0"
+version = "0.2.0"
 description = "Clientes y parsers para sistemas judiciales argentinos (MEV/SCBA, PJN, Portal de Notificaciones), pensados para usarse desde skills de Claude."
 readme = "README.md"
 license = "Apache-2.0"
@@ -11,6 +11,10 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
+# Text extraction from PJN PDFs. Note: PyMuPDF is AGPL-licensed; it is optional.
+pdf = ["pymupdf>=1.23"]
+# OCR for scanned PDFs (also needs the tesseract and poppler system packages).
+ocr = ["pymupdf>=1.23", "pdf2image>=1.16", "pytesseract>=0.3.10"]
 dev = ["pytest>=7"]
 
 [project.scripts]
